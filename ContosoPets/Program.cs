@@ -9,8 +9,8 @@ namespace ContosoPets
     {
         static void Main(string[] args)
         {
-            //ContextAddInfo();
-            ContextReadInfo();
+            ContextAddInfo();
+            //ContextReadInfo();
         }
 
         static void ContextAddInfo() 
